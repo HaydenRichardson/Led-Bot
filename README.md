@@ -1,1 +1,1 @@
-A discord bot using discords api and an arduino to control a LED strip remotley through text commands. 
+A discord bot using discord's API and an arduino to control a LED strip remotley through text commands. 
